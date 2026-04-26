@@ -1,4 +1,3 @@
-numpy
 scipy
 pandas
 scikit-learn
@@ -7,3 +6,9 @@ wfdb
 matplotlib
 streamlit
 tensorflow
+numpy
+plotly 
+opencv-python-headless 
+
+
+

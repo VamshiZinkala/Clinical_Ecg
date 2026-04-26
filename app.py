@@ -371,8 +371,8 @@ if page == "HOME":
             <div class="hero-pill">AI-Powered Cardiac Analysis</div>
             <h1 class="hero-title">
                 Diagnose<br>
-                <span class="ac">Arrhythmia</span>
-                <span class="dm"> in seconds</span>
+                <span class="ac" '>Arrhythmia</span>
+                <span class="dm" style='color:white'> in seconds</span>
             </h1>
             <p class="hero-desc">
                 Upload a scanned ECG image or CSV signal. Our hybrid 1D CNN + Random Forest
